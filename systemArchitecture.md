@@ -84,7 +84,7 @@ This app emphasizes client-side 3D rendering to provide a seamless, offline-capa
 
 
 
-##  Business Logic Layer
+##  Logic Layer
 - Manages **core design operations**:
   - Room scanning (via camera + LiDAR)  
   - Object placement & transformation  
@@ -202,3 +202,4 @@ This app emphasizes client-side 3D rendering to provide a seamless, offline-capa
 - Finalize AR implementation choice: **Unity AR Foundation** vs **native ARKit/ARCore** + React Native bridge.  
 - Decide on 3D engine: **Three.js (WebGL)** for lightweight client vs **Unity** for advanced Augumented Reality.  
 - Define partner data sources for localized price feeds and furniture catalogs.
+
