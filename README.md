@@ -50,12 +50,13 @@ Switch to **3D view** to walk around your virtual room.
 
  ## Screenshots
 
-| ![Home Dashboard](Images/photo_2025-11-09_07-45-44.jpgg) | ![3D Editor](Images/photo_2025-11-09_07-46-02.jpg) | ![Decor Templates](Images/photo_2025-11-09_07-45-48.jpg) |
-|Home Dashboard|3D-Editor-View|Furniture-Catalog|
+ | ![Home Dashboard](Images/photo_2025-11-09_07-45-44.jpgg) |<!-- ![3D Editor](Images/photo_2025-11-09_07-46-02.jpg) | ![Decor Templates](Images/photo_2025-11-09_07-45-48.jpg) |
+|Home Dashboard| <!-- 3D-Editor-View|Furniture-Catalog| -->
 
 
-| ![Material Selector](images/splash.png) | ![User Profile](Images/photo_2025-11-09_07-45-40.jpg) | ![Preview Render](Images/photo_2025-11-09_07-45-58.jpg) |
-|Material Selecton|Room Selection|Preview-Render|
+
+<!--| ![Material Selector](images/splash.png) | ![User Profile](Images/photo_2025-11-09_07-45-40.jpg) | ![Preview Render](Images/photo_2025-11-09_07-45-58.jpg) |
+|Material Selecton|Room Selection|Preview-Render| -->
 
 
 ## Privacy & Data
