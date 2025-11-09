@@ -148,11 +148,13 @@ This app emphasizes client-side 3D rendering to provide a seamless, offline-capa
    Optional **PWA mode** via Workbox for web deployments.  
 
    ### Data Flow Plan
-![Data architecture flow 1](Images/dataflow_1.PNG)  ![Data architecture flow 2](Images/dataflow_2.PNG) 
+![Data architecture flow 1](Images/dataflow_1.PNG) 
 
-![Data architecture flow 3]("Images/dataflow_3.PNG")
+![Data architecture flow 2](Images/dataflow_2.PNG) 
 
- [Link To Dataflow](https://miro.com/app/board/uXjVJ4XIMXQ=/?share_link_id=562397381747)
+![Data architecture flow 3](Images/dataflow_3.PNG)
+
+ [Link To Data Architecture](https://miro.com/app/board/uXjVJ4XIMXQ=/?share_link_id=562397381747)
 
 
 
