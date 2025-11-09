@@ -50,9 +50,8 @@ Switch to **3D view** to walk around your virtual room.
 
  ## Screenshots
 
-| ![Home Dashboard](Images/photo_2025-11-09_07-45-44.jpg) | ![3D Editor](Images/photo_2025-11-09_07-46-02.jpg) | ![Decor Templates](Images/photo_2025-11-09_07-45-48.jpg) ||
+| ![Home Dashboard](Images/photo_2025-11-09_07-45-44.jpg) | ![3D Editor](Images/photo_2025-11-09_07-46-02.jpg) | ![Decor Templates](Images/photo_2025-11-09_07-45-48.jpg) 
 |---|---|---|
-
 |Home Dashboard|3D-Editor-View|Furniture-Catalog|
 
 
