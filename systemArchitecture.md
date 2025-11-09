@@ -197,17 +197,17 @@ This app emphasizes client-side 3D rendering to provide a seamless, offline-capa
 
 ## 11. Diagrams and Framework
 - 
-![From App launch through the Dashboard to Template Browse](images/userflow_1.png)
+![From App launch through the Dashboard to Template Browse](https://drive.google.com/file/d/1I_1P1SmixcUh_0aveefNFEnqdSBCnSos/view?usp=drive_linkk)
 
-![Through the "Tour/Template Edit mode/Draw from scratch" to "Drag and drop/add rooms"](images/userflow_2.png)
+![Through the "Tour/Template Edit mode/Draw from scratch" to "Drag and drop/add rooms"](https://drive.google.com/file/d/19yHNx3ipjwYqsrUtl_E0s5KPguRnsPpB/view?usp=drive_linkg)
 
-![Through "Template Edit mode" to "Save design plan/download"](images/userflow_3.png)
-
-
+![Through "Template Edit mode" to "Save design plan/download"](https://drive.google.com/file/d/1FEYItr01dsx0_nRE1woiNzJqLsBYKrQF/view?usp=drive_linkg)
 
 
 
- ![Link To UserFlow](https://miro.com/app/board/uXjVJ4XIMXQ=/?share_link_id=562397381747)
+
+
+ [Link To UserFlow](https://miro.com/app/board/uXjVJ4XIMXQ=/?share_link_id=562397381747)
 
 
 ## 12. Further Development steps
