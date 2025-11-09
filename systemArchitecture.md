@@ -1,4 +1,4 @@
-# System architecture of Nexus - The 3D imterior Home designer 
+# System architecture of Nexus - The 3D interior Home designer 
 
 ## 1. Overview
 Nexus is a  mobile 3D interior design application that enables users to scan or enter room dimensions, auto-generate layouts, and create realistic 3D visualizations and AR previews. Includes platform compatibility (iOS and Android) using a modern tech stack focused on performance, scalability, and ease of maintenance. 
