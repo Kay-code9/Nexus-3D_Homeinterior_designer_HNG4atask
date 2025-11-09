@@ -207,7 +207,7 @@ This app emphasizes client-side 3D rendering to provide a seamless, offline-capa
 
 
 
- `![Link To UserFlow](https://miro.com/app/board/uXjVJ4XIMXQ=/?share_link_id=562397381747)`
+ ![Link To UserFlow](https://miro.com/app/board/uXjVJ4XIMXQ=/?share_link_id=562397381747)
 
 
 ## 12. Further Development steps
